@@ -1,0 +1,49 @@
+body {
+  background: linear-gradient(#fff, #bab);
+  min-height: 100vh;
+}
+.mb-3 {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+.btn-primary {
+  display: block;
+  margin: 0 auto;
+}
+.box {
+  position: relative;
+  margin-top: 300px;
+}
+span.cost-item {
+  float: right;
+}
+h1 {
+  font-size: 5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+#feed {
+  margin: 0 auto;
+  width: 400px;
+  background-color: wheat;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+#table {
+  border-collapse: separate;
+  border-spacing: 60px 10px;
+  font-size: 2rem;
+}
+.linkadd {
+  display: flex;
+  font-size: 3rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+  padding: 50px;
+}
+a {
+  color: #baa43c;
+  text-decoration: none;
+  align-items: center;
+}
